@@ -7,4 +7,4 @@ Javascript Variables.
 Keywords Const,Let,Var.
 Arrays.
 Done Exercises
-TO Check Exercises [here](Day2/Day2.js)
+TO Check Exercises [here](Day2.md/Day2.js)
