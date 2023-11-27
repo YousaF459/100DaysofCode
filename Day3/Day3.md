@@ -16,3 +16,5 @@ Today Covered Topics
 ⌨️ JavaScript Array methods
 ⌨️ Math utilities with JavaScript
 ⌨ Error types and other JavaScript concepts
+
+Tommorow i will practice javascipt coding questions/Problems & Will Start HTML Crash Course.
