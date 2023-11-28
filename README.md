@@ -41,3 +41,11 @@ Today Covered Topics
 ⌨️ Math utilities with JavaScript
 ⌨ Error types and other JavaScript concepts
 More Info [here](Day3/Day3.md)
+
+#Day4
+
+Today i Solved Some Javascript problems/question That can be seen on Codewars Website.
+CodeWars :- https://www.codewars.com/users/Yousaf%20Amin%20Khan/completed_solutions
+Started Html.
+Link :- https://www.youtube.com/watch?v=zJSY8tbf_ys&t=33543s
+More Info [here](Day4/Day4.md)
