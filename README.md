@@ -49,3 +49,11 @@ CodeWars :- https://www.codewars.com/users/Yousaf%20Amin%20Khan/completed_soluti
 Started Html.
 Link :- https://www.youtube.com/watch?v=zJSY8tbf_ys&t=33543s
 More Info [here](Day4/Day4.md)
+
+
+#Day5
+
+Today I Completed HTML Crash Course.
+Learned About DOM.
+Completed HTML+JAVASCRIPT "Meme Generator "Challenge.
+More Info [here](Day5/Day5.md)
