@@ -66,3 +66,11 @@ Css Box Model.
 Made "Meme Generator" Using Html + Javascript + DOM.
 Link :- https://codepen.io/GAMERS-the-looper/pen/VwgGMgP
 More Info [here](Day6/Day6.md)
+
+#Day7
+
+CSS Crash Course.
+Learned about Flexbox.
+Responsive website.
+Css Properties.
+More Info [here](Day7/Day7.md)
