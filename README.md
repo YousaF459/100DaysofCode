@@ -87,3 +87,10 @@ DOM.
 Css.
 Css Grid & FlexBox.
 More Info [here](Day8/Day8.md)
+
+
+#Day9
+
+Created Responsive Design witout using grid or flexbox.
+
+More Info [here](Day9/Day9.md)
