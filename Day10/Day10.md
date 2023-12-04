@@ -1,7 +1,7 @@
 
 #Day10
 
-Made something using css flexbox [here](CSS FlexBox.PNG)
+Made something using css flexbox [here](cssflexbox.PNG)
 
 
 
