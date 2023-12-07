@@ -116,3 +116,20 @@ using html & css so now i will learn javascript in detail and will make somethin
 Link => https://www.youtube.com/watch?v=xc3a_CJhjCc
 
 More Info [here](Day12/Day12.md)
+
+#Day13
+
+Covered Remaining Topics of JavaScript
+
+promises 🤞
+async 📥
+await ✋
+ES6 Modules 
+asynchronous ⏳
+array of objects 📮
+anonymous objects 🎭
+error handling 🏤
+setTimeout() ⏰
+setInterval() ⏲️
+
+More Info [here](Day13/Day13.md)
