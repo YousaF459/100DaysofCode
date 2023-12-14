@@ -173,3 +173,14 @@ Started HTTP Networking Course
 Link => https://www.youtube.com/watch?v=2JYT5f2isg4&t=2439s
 
 More info [here](Day19/Day19.md)
+
+
+#Day20
+
+HTTP Networking Course =>
+Async JavaScript
+Error Handling
+HTTP Header
+JSON
+
+More info [here](Day20/Day20.md)
