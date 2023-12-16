@@ -181,7 +181,7 @@ HTTP Networking Course =>
 Async JavaScript
 Error Handling
 HTTP Header
-JSON
+JSON22
 
 More info [here](Day20/Day20.md)
 
@@ -193,3 +193,17 @@ HTTPS Security
 URL Paths
 
 More info [here](Day21/Day21.md)
+
+
+#Day22
+
+Started Learning about APIs.
+
+More info [here](Day22/Day22.md)
+
+
+
+
+
+
+
