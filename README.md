@@ -202,14 +202,13 @@ Started Learning about APIs.
 More info [here](Day22/Day22.md)
 
 
-
 #Day23
 
 Explored an API 
 Using an API from the command line 
-Curl
+Used Curl
 Using tools to explore APIs
-More tools for your API exploring toolbox
+More tools for API exploring toolbox
 Using Helper Libraries - SDK
 
 More info [here](Day23/Day23.md)
