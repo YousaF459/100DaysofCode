@@ -213,5 +213,12 @@ Using Helper Libraries - SDK
 
 More info [here](Day23/Day23.md)
 
+#Day24
+
+Fetch().Working With Data & APIs.
+Tabular Data
+
+More info [here](Day24/Day24.md)
+
 
 
