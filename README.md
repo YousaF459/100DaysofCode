@@ -223,5 +223,10 @@ More info [here](Day24/Day24.md)
 
 #Day25
 
+Converted a text Data to Graph Using Fetch API & Chart.js.
+
+Data was report of nasa about Combined Land-Surface Area and Sea-Surface Water Temperature in °C.
+
+More info [here](Day25/Day25.md)
 
 

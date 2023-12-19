@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Fetch API & Chart.JS</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<canvas id="chart" width="600" height="200"></body>canvas>
+<script>
+
+chartdata();
+
+async function chartdata(){
+const finaldata= await gotdata();
+const ctx = document.getElementById('chart');
+ new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: finaldata.yearlabel,
+    datasets: [{
+      label: 'Combined Land-Surface Area and Sea-Surface Water Temperature in °C',
+      data: finaldata.temperaturelabel,
+      borderWidth: 1
+    }]
+  },
+  options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                     beginAtZero: false 
+                    
+                }
+                
+            }]
+        }
+    }
+  
+});
+
+}
+
+
+
+
+
+async function gotdata(){
+const yearlabel=[];
+const temperaturelabel=[];
+const responses=await fetch("ZonAnn.Ts+dSST.csv");
+const data=await responses.text();
+
+const rows=data.split('\n').slice(1);
+
+rows.forEach(element=>{
+const row=element.split(",");
+const year=row[0];
+yearlabel.push(year);
+const temperature=row[1];
+temperaturelabel.push(parseFloat(temperature) + 14);
+})
+return {yearlabel,temperaturelabel};
+}
+
+
+</script>
+
+</body>
+
+
+</html>
