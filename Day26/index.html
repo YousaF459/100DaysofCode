@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+ISS GeoLocation
+</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+</head>
+
+<body>
+<h1>GeoLocation</h1>
+<P>
+Longitude :<span id="lo"></span><br>
+Latitude :<span id="la"></span>
+</P>
+<div id="map" style="height: 400px"></div>
+
+
+
+<script>
+
+
+
+
+
+
+
+const url_api="https://api.wheretheiss.at/v1/satellites/25544";
+const updated_data=setInterval(gotiss,2000);
+
+var map = L.map('map').setView([0,0], 1);;
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+var myIcon = L.icon({
+    iconUrl: 'images.png',
+    iconSize: [80, 40],
+    iconAnchor: [40, 20],
+});
+const mark=L.marker([0, 0],{icon: myIcon}).addTo(map);
+
+let firstview=true;
+async function gotiss(){
+    const response=await fetch(url_api);
+    const data=await response.json();
+    const lo_id=document.getElementById('lo');
+    const la_id=document.getElementById('la');
+    const lo_data=data.latitude;
+    const la_data=data.longitude;
+    lo_id.textContent=lo_data;
+    la_id.textContent=la_data;
+    mark.setLatLng([la_data,lo_data]);
+    if(firstview){
+    map.setView([la_data,lo_data],2);
+    firstview=false;
+    }
+}
+   
+
+gotiss();
+
+</script>
+</body>
+</html>
