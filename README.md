@@ -240,3 +240,8 @@ More info [here](Day26/Day26.md)
 Started Learning About Node & Express & Shell(Bash).
 
 More info [here](Day27/Day27.md)
+
+#Day28
+Started Motion Design For Web.
+
+More info [here](Day28/Day28.md)
