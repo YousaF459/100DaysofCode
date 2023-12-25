@@ -261,3 +261,16 @@ Learn About Animation
 Unit Sizes
 
 More info [here](Day30/Day30.md)
+
+#Day31
+
+Motion Web =>
+Css transitions 
+
+Made Some Animations 
+
+Loader Animation 
+
+Will Start Making A Project From Tommorrow.
+
+More info [here](Day31/Day31.md)
