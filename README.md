@@ -274,3 +274,9 @@ Loader Animation
 Will Start Making A Project From Tommorrow.
 
 More info [here](Day31/Day31.md)
+
+#Day32
+
+Started Making FTMO Clone With HTML , CSS & Javascript. 
+
+More info [here](Day32/Day32.md)
