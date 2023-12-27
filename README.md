@@ -280,3 +280,11 @@ More info [here](Day31/Day31.md)
 Started Making FTMO Clone With HTML , CSS & Javascript. 
 
 More info [here](Day32/Day32.md)
+
+#Day33
+
+Started Making FTMO Clone With HTML , CSS & Javascript. 
+
+Day2 of making FTMO Frontend.
+
+More info [here](Day33/Day33.md)
