@@ -298,4 +298,14 @@ Day3 of making FTMO Frontend.
 More info [here](Day34/Day34.md)
 
 
+#Day35
+
+Started Making FTMO Clone With HTML , CSS & Javascript. 
+
+Day4 of making FTMO Frontend.
+
+Complated Home Page and Made it responsive.
+
+More info [here](Day35/Day35.md)
+
 
