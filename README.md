@@ -322,3 +322,9 @@ FTMO Clone Day 6.
 Made Home Page Carousel.
 
 More info [here](Day37/Day37.md)
+
+#Day38
+
+FTMO Clone Day 7.
+
+More info [here](Day38/Day38.md)
