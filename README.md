@@ -328,3 +328,9 @@ More info [here](Day37/Day37.md)
 FTMO Clone Day 7.
 
 More info [here](Day38/Day38.md)
+
+#Day39
+
+FTMO Clone Day8.
+
+More info [here](Day39/Day39.md)
