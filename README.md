@@ -340,3 +340,9 @@ More info [here](Day39/Day39.md)
 FTMO Clone Day9.
 
 More info [here](Day40/Day40.md)
+
+#Day41
+
+FTMO CLONE DAY 10.
+
+More info [here](Day41/Day41.md)
