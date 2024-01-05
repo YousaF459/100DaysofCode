@@ -1,6 +1,6 @@
 #Day42
 
-Frontend Development Progress: Completed day 41 of the FTMO clone frontend project.
+Frontend Development Progress: Completed day 42.
 
 Implemented Video Functionality: Integrated play button functionality for video display on larger screens and adapted the layout to show the video within a div on smaller devices.
 
