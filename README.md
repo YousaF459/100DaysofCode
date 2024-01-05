@@ -346,3 +346,11 @@ More info [here](Day40/Day40.md)
 FTMO CLONE DAY 10.
 
 More info [here](Day41/Day41.md)
+
+#Day42
+
+FTMO CLONE DAY 11.
+
+Implemented Video Functionality: Integrated play button functionality for video display on larger screens and adapted the layout to show the video within a div on smaller devices.
+
+More info [here](Day42/Day42.md)
