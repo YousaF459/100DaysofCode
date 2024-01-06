@@ -354,3 +354,11 @@ FTMO CLONE DAY 11.
 Implemented Video Functionality: Integrated play button functionality for video display on larger screens and adapted the layout to show the video within a div on smaller devices.
 
 More info [here](Day42/Day42.md)
+
+#Day43
+
+Frontend Development Progress: Completed day 43.
+
+FTMO CLONE DAY 12.
+
+More info [here](Day43/Day43.md)
