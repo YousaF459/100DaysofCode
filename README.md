@@ -363,10 +363,18 @@ FTMO CLONE DAY 12.
 
 More info [here](Day43/Day43.md)
 
-#Day43
+#Day44
 
 Frontend Development Progress: Completed day 44.
 
 FTMO CLONE DAY 13.
 
 More info [here](Day44/Day44.md)
+
+#Day45
+
+Frontend Development Progress: Completed day 45.
+
+FTMO CLONE DAY 14.
+
+More info [here](Day45/Day45.md)
