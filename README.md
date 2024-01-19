@@ -458,3 +458,11 @@ Frontend Development Progress: Completed day 55.
 FTMO CLONE DAY 24.
 
 More info [here](Day55/Day55.md)
+
+#Day56
+
+Frontend Development Progress: Completed day 56.
+
+FTMO CLONE DAY 25.
+
+More info [here](Day56/Day56.md)
