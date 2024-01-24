@@ -501,3 +501,11 @@ Frontend Development Progress: Completed day 60.
 FTMO CLONE DAY 29.
 
 More info [here](Day60/Day60.md)
+
+#Day61
+
+Frontend Development Progress: Completed day 61.
+
+FTMO CLONE DAY 30.
+
+More info [here](Day61/Day61.md)
