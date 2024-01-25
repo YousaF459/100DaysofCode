@@ -509,3 +509,11 @@ Frontend Development Progress: Completed day 61.
 FTMO CLONE DAY 30.
 
 More info [here](Day61/Day61.md)
+
+#Day62
+
+Frontend Development Progress: Completed day 62.
+
+Hey friends and fellow developers! 👋 I'm thrilled to share that I've successfully completed and deployed my FTMO Frontend Homepage Clone! 🌐✨
+
+More info [here](Day62/Day62.md)
