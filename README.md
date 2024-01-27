@@ -516,4 +516,18 @@ Frontend Development Progress: Completed day 62.
 
 Hey friends and fellow developers! 👋 I'm thrilled to share that I've successfully completed and deployed my FTMO Frontend Homepage Clone! 🌐✨
 
-More info [here](Day62/Day62.md)
+#Day63
+
+Frontend Development Progress: Completed day 63.
+
+Started Learning React.
+
+More info [here](Day63/Day63.md)
+
+#Day64
+
+Frontend Development Progress: Completed day 64.
+
+Learning React :- Day1
+
+More info [here](Day64/Day64.md)
