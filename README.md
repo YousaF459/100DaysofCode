@@ -579,3 +579,11 @@ Frontend Development Progress: Completed day 70.
 Learning React :- Day 7
 
 More info [here](Day70/Day70.md)
+
+#Day71
+
+Frontend Development Progress: Completed day 71.
+
+Learning React :- Day 8
+
+More info [here](Day71/Day71.md)
