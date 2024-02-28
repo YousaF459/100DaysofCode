@@ -778,3 +778,11 @@ Frontend Development Progress: Completed day 95.
 Playstation Website Homepage Clone :- DAY 5
 
 More info [here](Day95/Day95.md)
+
+#Day96
+
+Frontend Development Progress: Completed day 96.
+
+Playstation Website Homepage Clone :- DAY 6
+
+More info [here](Day96/Day96.md)
